@@ -49,3 +49,9 @@ A publicly available dataset was used to simulate biological feature analysis fo
 - Perform clustering analysis
 - Apply machine learning models
 - Study stress-response gene patterns
+
+- ## Visualization
+
+The figure below shows the distribution of the analyzed biological data.
+
+![Gene Expression Distribution](gene_expression_distribution.png)
