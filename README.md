@@ -50,6 +50,22 @@ A publicly available dataset was used to simulate biological feature analysis fo
 - Apply machine learning models
 - Study stress-response gene patterns
 
+- ## Results and Visualization
+
+The analysis revealed patterns within the dataset through exploratory data analysis and visualization.
+
+### Distribution of Biological Measurements
+
+![Histogram](histogram_distribution.png)
+
+This histogram shows the distribution of values within the dataset and helps identify trends, variability, and potential outliers.
+
+### Feature Comparison
+
+![Bar Chart](bar_chart_comparison.png)
+
+This bar chart provides a comparison of selected variables, highlighting differences across observations and supporting biological interpretation.
+
 - ## Visualization
 
 The figure below shows the distribution of the analyzed biological data.
